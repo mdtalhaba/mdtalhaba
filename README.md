@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtalhaba" alt="mdtalhaba" /></a> </p>
 
+- 🔭 I’m currently working on [IQ Tester](https://iq-tester.onrender.com/)
+
+- 🌱 I’m currently learning **Django REST Framework**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mdtalhaba?tab=repositories](https://github.com/mdtalhaba?tab=repositories)
+
+- 📫 How to reach me **jubairt35@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdtalhaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtalhaba" height="30" width="40" /></a>
