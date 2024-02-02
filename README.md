@@ -1,4 +1,4 @@
-![intro](https://github.com/mdtalhaba/mdtalhaba/blob/main/cover.jpeg)
+<h1 align="center"><img src="https://github.com/mdtalhaba/mdtalhaba/blob/main/cover.jpeg" alt="cover" /></h1>
 <h1 align="center">Hi 👋, I'm MD TALHA BIN ABDULLAH</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
