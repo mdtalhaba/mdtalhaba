@@ -1,3 +1,4 @@
+![intro](https://github.com/mdtalhaba/mdtalhaba/edit/main/cover.jpeg)
 <h1 align="center">Hi 👋, I'm MD TALHA BIN ABDULLAH</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
